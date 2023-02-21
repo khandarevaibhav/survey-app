@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  node: 
+    image: "node_app"
+    build:
+      dockerfile: Dockerfile
+      context: ./backend
+    command: "npm start"
+    ports:
+      - 5000:5000
+
+    networks:
+      - appnet
+    
+  angular:
+    image: "angular_app"
+    build:
+      dockerfile: Dockerfile
+      context: ./frontend
+    command: "ng serve"
+    ports:
+      - 4200:4200
+
+    networks:
+      - appnet
+
+networks:
+  appnet:
+    driver: bridge
