@@ -1,0 +1,88 @@
+.history {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+// .card {
+//     align-items: center;
+//     text-align: center;
+// }
+
+// .btn {
+//   color: white;
+//   align-items: center;
+//   text-align: center;
+// }
+
+h4{
+   color :black;
+   text-align: center;  
+   font-family: 'Times New Roman', Times, serif; 
+   margin-bottom: 20px;
+}
+
+h5{
+  color :black;
+  text-align: center;  
+  font-family: 'Times New Roman', Times, serif; 
+}
+
+.mat-toolbar{
+background-color: #00539CFF; 
+}
+
+
+
+button{
+  margin-right: 15px;
+}
+
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style:normal ;
+  font-size: large;
+  color:black;
+  text-align: center;
+  font-size: 40px;
+}
+
+.his{
+  padding: 10px;
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 500px;
+  border-radius: 10px;
+  align-self:auto;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  background-color: transparent;
+}
+
+body{
+    background-image: url("https://images.pexels.com/photos/1535421/pexels-photo-1535421.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size: cover;
+      background-repeat: no-repeat;
+      padding: 5px;
+      width :cover;
+      background-color: white;
+      margin-bottom: 50px;
+  }
+
+
+.btn1{
+  margin-right: 100px;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

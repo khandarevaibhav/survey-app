@@ -1,0 +1,74 @@
+.container{
+    background-color:white;
+    size: auto;
+    text-align: center;
+        margin-top: 200px;
+        margin-bottom: center;
+        display: block;
+        justify-content: center;   
+
+}
+
+h1{
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal ;
+    font-size: large;
+    color:black;
+    text-align: center;
+    font-size: 40px;
+    display: block;
+    justify-content: center;   
+}
+
+h2{
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    font:bold;  
+    font-size: 25px; 
+    text-align: center;
+    color:black;
+    display: block;
+    justify-content: center;   
+    
+}
+
+h3{
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    font:bold;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+
+body{
+    background-color: lightsteelblue;
+    background-image: url("https://images.pexels.com/photos/82256/pexels-photo-82256.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5px;
+    width :cover;
+    margin-bottom: 50px;
+}
+
+.mat-toolbar{
+    background-color: lightblue ;
+}
+
+.img{
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/22/11/59/thank-you-5077738__480.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5px;
+    width :cover;
+    size : fit-content;
+}
