@@ -1,0 +1,93 @@
+.mat-mdc-radio-button ~ .mat-mdc-radio-button {
+  margin-left: 16px;
+}
+.radio-container{
+  width: 550px;
+  background-color: #565656c7;
+  border-radius: 5px;
+  color: aliceblue;
+  padding: 8px;
+}
+
+.example-full-width {
+  width: 100%;
+  width: 520px;
+}
+
+button{
+  padding : 10px;
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+        margin-right: 50px;
+        margin-left: 50px;
+        background-color:transparent;
+        width : auto;
+        text-align: center;
+        margin: auto;
+        display: block;
+        padding: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font: 300;
+        display: inline-block;
+        align-self:auto;
+        margin-top: 50px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+         margin: auto;
+        display: inline;
+}
+
+option{
+  padding : 10px;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  margin-right: 50px;
+  margin-left: 50px;
+ 
+  display: inline-block;
+  align-self:auto;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+   margin: auto;
+  display: inline;
+}
+
+h3{
+  padding: 3px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+}
+
+.container{
+width: 500px;
+background-color: #303030;
+height: 50px;
+margin-left: 15px;
+border-radius: 2px;
+}
+
+.but{
+  margin-right: 15px;
+  margin-left: 15px; 
+}
+
+
+div {
+  list-style-type: none;
+  margin-top: 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.example-section {
+  margin-right: 20px;
+  background-color: #565656b5;
+  width: 550px;
+  border-radius: 5px;
+  padding: 8px;
+}
