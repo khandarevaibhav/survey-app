@@ -1,0 +1,29 @@
+.card{
+    width: 70%;
+    margin: auto;
+    background-color:black;
+    border: 2px solid rgb(198, 17, 17);
+    border-radius: 50px;
+    text-align: center;
+}
+// .parent{
+//    // background-color: rgba(184, 178, 150, 0.647);
+//    //background-image: url("https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&w=600");
+// }
+body{
+    background-color: red;
+}
+
+h3{
+    color:white;
+}
+
+body{
+    background-color: lightsteelblue;
+    background-image: url("https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5px;
+    width :cover;
+    margin-bottom: 50px;
+}

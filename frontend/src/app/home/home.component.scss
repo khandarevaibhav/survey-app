@@ -1,0 +1,97 @@
+h1{
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style:normal ;
+  font-size: large;
+  color:black;
+  text-align: center;
+  font-size: 40px;
+}
+
+body{
+  // background-image: url("https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&w=600");
+  // background-image: url("https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&w=600");
+  background-image: url("https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&w=600");
+  background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5px;
+    width :cover;
+    background-color: white;
+    margin-bottom: 50px;
+    text-align: center;
+  width:100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.button{
+  color: purple;
+  font-size: large;
+  text-align: center;
+  margin: auto;
+  display: block;
+  padding: 10px;
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 500px;
+  border-radius: 10px;
+  align-self:auto;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  background-color: purple;
+}
+
+.create-form{
+  background-color:transparent;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+ // color: black;
+  font-size: large;
+  text-align: center;
+  margin: auto;
+  display: block;
+  padding: 10px;
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 500px;
+  border-radius: 10px;
+  align-self:auto;
+  margin-top: 250px;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  background-color: purple;
+}
+
+.viewRes{
+  color: white;
+  font-size: large;
+  text-align: center;
+  margin: auto;
+  display: block;
+  padding: 10px;
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 500px;
+  border-radius: 10px;
+  align-self:auto;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  background-color: purple;
+}
+
+.mat-toolbar{
+  background-color: rgb(216, 233, 120);
+
+  font-family: 'Times New Roman', Times, serif;
+  font-style:normal ;
+  font-size: large;
+}
